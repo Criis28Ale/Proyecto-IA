@@ -1,6 +1,6 @@
 # 📘 Proyecto Final – Introducción a Deep Learning
-### Autor: [Tu nombre]
-### Curso: DS405 – Introducción a Deep Learning
+### Autor: Cristopher Alejandro Azurdia de León
+### Curso: IA – Introducción a Deep Learning
 
 ---
 
