@@ -65,7 +65,7 @@ Los notebooks incluyen:
 ## 📁 Estructura del Repositorio
 
 ```
-deep-learning-project/
+Proyecto.IA/
 │── 01_MLP.ipynb
 │── 02_CNN.ipynb
 │── 03_RNN.ipynb
